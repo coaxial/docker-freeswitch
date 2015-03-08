@@ -4,7 +4,7 @@
 
 `1.4`: Barebones FreeSWITCH 1.4 Docker image
 
-`for_adhearsion`: Based on `1.4` with extra modules to run Adhearsion
+`for_adhearsion`: Based on `1.4` with extra modules to run along with the [Adhearsion image](https://github.com/coaxial/docker-adhearsion)
 
 ## Docker hub
 
