@@ -1,6 +1,6 @@
 # FreeSWITCH Docker container
 
-## What is this docker container about?
+## What is this docker image about?
 This is a barebones [FreeSWITCH](https://freeswitch.org/) image based off Debian
 Wheezy. It only installs `freeswitch`, the `console` and the `commands` modules.
 
