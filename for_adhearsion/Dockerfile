@@ -1,4 +1,4 @@
-FROM coaxial/freeswitch:1.4
+FROM coaxial/freeswitch:1.4.19
 MAINTAINER Coaxial <py@poujade.org>
 
 ENV DEBIAN_FRONTEND noninteractive
