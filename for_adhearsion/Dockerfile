@@ -13,6 +13,8 @@ RUN apt-get install freeswitch-mod-dialplan-xml -y -qq &&\
     apt-get install freeswitch-mod-rayo -y -qq &&\
     apt-get install freeswitch-mod-sndfile -y -qq &&\
     apt-get install freeswitch-mod-sofia -y -qq &&\
+    apt-get install freeswitch-mod-shout -y -qq &&\
+    apt-get install libvorbis0a libogg0 libogg-dev libvorbis-dev -y -qq &&\
     apt-get install freeswitch-mod-ssml -y -qq &&\
     apt-get clean
 
