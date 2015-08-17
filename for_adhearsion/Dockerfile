@@ -1,5 +1,5 @@
 FROM coaxial/freeswitch:1.4
-MAINTAINER Coaxial <py@poujade.org>
+MAINTAINER Coaxial <coaxial@cxial.tk>
 
 ENV DEBIAN_FRONTEND noninteractive
 
