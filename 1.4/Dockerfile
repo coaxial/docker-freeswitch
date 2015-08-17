@@ -1,5 +1,5 @@
 FROM debian:wheezy
-MAINTAINER Coaxial <py@poujade.org>
+MAINTAINER Coaxial <coaxial@cxial.tk>
 ENV DEBIAN_FRONTEND nonintaractive
 RUN echo 'deb http://files.freeswitch.org/repo/deb/debian/ wheezy main' >> /etc/apt/sources.list.d/freeswitch.list &&\
     gpg --keyserver pool.sks-keyservers.net --recv-key D76EDC7725E010CF &&\
